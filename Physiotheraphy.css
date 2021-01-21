@@ -1,0 +1,269 @@
+.u-section-1 {
+  background-image: url("images/physiotherapy_techniques.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 725px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  text-shadow: 2px -2px 8px rgba(128,128,128,1);
+  font-weight: 700;
+  margin: 352px 7px 60px 224px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 598px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 12px;
+    margin-left: 31px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 458px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 9px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 344px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-right: 7px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 479px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-top: 360px;
+    margin-right: -26px;
+    margin-left: -50px;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 698px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 57px 238px 0 257px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 43px 0 60px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 489px;
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 60px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 32px 0 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 489px;
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 60px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 0;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-text-6 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 612px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 399px;
+    margin-left: 157px;
+    margin-right: 138px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 403px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 403px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 309px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 47px;
+    margin-right: 28px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 409px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 484px;
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 364px;
+  grid-gap: 17px 17px;
+  margin: 60px auto;
+}
+
+.u-section-3 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 17px;
+}
+
+.u-section-3 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 356px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 300px;
+    grid-template-columns: repeat(3, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 746px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 690px;
+    grid-template-columns: repeat(2, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1608px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 1552px;
+    grid-template-columns: repeat(1, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1033px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 977px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
